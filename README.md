@@ -1,6 +1,7 @@
-### Game "Catch Fish" - Xây dựng bằng Construct 2
 
-![Catch Fish]((https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.6435-9/192460242_2925641917721768_3569600527260923042_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=bd3046&_nc_eui2=AeFX-sXasItkCJryN-YBKs445e5yBIbHf8nl7nIEhsd_ySUGO0Oyaqlk14jFv7_rTNF30SxOcmHmX9HzlAvMv6YL&_nc_ohc=uVMeLGUY2_gAX957MW3&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfCduqbluXneH5HsS86LQoI9-IK1bYF8xkAh3_i9yM0RFQ&oe=65AFD3CD))
+<img src="https://github.com/KhangKuro/Game-Catch-Fish/blob/main/Picture.jpg" />
+
+### Game "Catch Fish" - Xây dựng bằng Construct 2
 
 Đây là một trò chơi thú vị được tạo ra bằng Construct 2, nơi người chơi có nhiệm vụ bắt cá để đạt được điểm số cao nhất.
 
