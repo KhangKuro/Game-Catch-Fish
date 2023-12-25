@@ -1,41 +1,36 @@
-
 <img src="https://github.com/KhangKuro/Game-Catch-Fish/blob/main/Picture.jpg" />
 
-### Game "Catch Fish" - Xây dựng bằng Construct 2
+### Game "Catch Fish" - Built with Construct 2
 
-Đây là một trò chơi thú vị được tạo ra bằng Construct 2, nơi người chơi có nhiệm vụ bắt cá để đạt được điểm số cao nhất.
+This is an engaging game created using Construct 2, where players have the task of catching fish to achieve the highest score.
 
-### Mục tiêu
-- **Project Năm 1 - Môn Nhập Môn Công Nghệ Thông Tin, Đại Học Khoa Học Tự Nhiên, Đại Học Quốc Gia Thành Phố Hồ Chí Minh**
+### Objective
+- **Year 1 Project - Introduction to Information Technology Course, University of Science, Vietnam National University Ho Chi Minh City**
 
-### Tải xuống
-Bạn có thể tải trò chơi tại đường dẫn sau: [Tải xuống Game "Catch Fish"](https://drive.google.com/file/d/1TEWsireceDfl3T2jv473olt-7tCXPDB8/view)
+### Download
+You can download the game at the following link: [Download Game "Catch Fish"](https://drive.google.com/file/d/1TEWsireceDfl3T2jv473olt-7tCXPDB8/view)
 
-### Hướng dẫn cài đặt
-1. Tải xuống file game từ đường dẫn trên.
-2. Giải nén file nếu có.
-3. Chạy file thực thi hoặc file tương ứng với hệ điều hành của bạn để bắt đầu trò chơi.
+### Installation Guide
+1. Download the game file from the provided link.
+2. Extract the file if necessary.
+3. Run the executable file or the corresponding file for your operating system to start the game.
 
-### Cách chơi
-1. Mục tiêu của trò chơi là bắt càng nhiều cá càng tốt để đạt được điểm số cao nhất.
-2. Sử dụng chuột để di chuyển và bắt cá vào rổ phù hợp.
-3. Tránh các vật cản hoặc các yếu tố khác có thể giảm điểm số của bạn.
+### How to Play
+1. The goal of the game is to catch as many fish as possible to achieve the highest score.
+2. Use the mouse to move and catch the fish into the appropriate basket.
+3. Avoid obstacles or other elements that might reduce your score.
 
-### Yêu cầu hệ thống
-Để chơi trò chơi một cách trơn tru, đảm bảo rằng hệ thống của bạn đáp ứng các yêu cầu sau:
-- Hệ điều hành: [Win 7 trở lên Win 32 bit hoac Win 64 bit]
+### System Requirements
+To smoothly play the game, ensure that your system meets the following requirements:
+- Operating System: [Win 7 or later, Win 32-bit or Win 64-bit]
 - RAM: [4 GB]
-- Bộ xử lý: [Chip Intel gen 8th hoặc AMD Ryzen]
-- Dung lượng game 500MB: [Yêu cầu trống khoảng 1GB]
+- Processor: [Intel 8th gen chip or AMD Ryzen]
+- Game size 500MB: [Requires about 1GB of free space]
 
+### Source Code
+If you wish to reference or contribute to the game's source code, you can find it in the repository [Catch Fish GitHub Repository]([link_to_github_repository](https://github.com/KhangKuro/Game-Catch-Fish/)).
 
-### Mã nguồn
-Nếu bạn muốn tham khảo hoặc đóng góp vào mã nguồn của trò chơi, bạn có thể tìm mã nguồn tại repository [Catch Fish GitHub Repository]([link_to_github_repository](https://github.com/KhangKuro/Game-Catch-Fish/)).
+### Online Gameplay
+For a different gaming experience, visit the following website: [Web Game "Catch Fish"](https://andy30082002.wixsite.com/20kdlracoonee)
 
-### Trò chơi trực tuyến
-Nếu bạn muốn trải nghiệm trò chơi khác, hãy truy cập vào trang web sau: [Web Game "Catch Fish"](https://andy30082002.wixsite.com/20kdlracoonee)
-
-Hãy thưởng thức trò chơi và chúc bạn có những phút giây thư giãn thú vị cùng "Catch Fish"!
-
-
-
+Enjoy the game and have a relaxing and enjoyable time with "Catch Fish"!
